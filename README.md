@@ -2,7 +2,7 @@
 
 This project aims to build a Machine Learning model to predict the order amount that customers can place in the upcoming days based on their past order information and behavior.
 
-(This project is an assignment for the HighRadius unpaid internship for the 2024 passing out batch.)
+*(This project is an assignment for the HighRadius unpaid internship for the 2024 passing out batch.)
 
 Project Structure
 The project is structured as follows:
@@ -11,7 +11,7 @@ data/ : This directory contains the dataset used for training and evaluation.
 notebooks/ : This directory contains Jupyter notebooks for each milestone of the project.
 requirements.txt : This file lists the required packages and dependencies for running the project.
 README.md : This file provides an overview of the project and its objectives.
-Requirements
+# Requirements
 The project requires the following packages to be installed:
 
 Pandas
@@ -22,7 +22,7 @@ Seaborn
 To install these packages, you can run the following command:
 
 pip install -r requirements.txt
-Milestones
+# Milestones
 The project consists of several milestones, each focusing on a specific task. Here is a summary of the milestones:
 
 Data Sanity : In this milestone, we perform data cleaning and preprocessing tasks such as handling missing values, formatting date columns, removing inconsistent records, and converting currency values to USD.
@@ -35,7 +35,7 @@ ML Models and Evaluations : This milestone focuses on building and evaluating di
 
 Please refer to the individual Jupyter notebooks in the notebooks/ directory for detailed explanations and code implementation for each milestone.
 
-Usage
+# Usage
 To use this project, follow these steps:
 
 Clone the repository to your local machine:
@@ -49,7 +49,7 @@ Install the required packages:
 pip install -r requirements.txt
 Open the Jupyter notebooks in the notebooks/ directory to view and run the code for each milestone.
 
-Conclusion
+# Conclusion
 This project provides a framework for predicting order amounts using Machine Learning techniques. By following the milestones and implementing the necessary tasks, you can build and evaluate models for order amount prediction. Feel free to customize and expand upon the project to suit your specific requirements.
 
 If you have any questions or need further assistance, please feel free to reach out.
